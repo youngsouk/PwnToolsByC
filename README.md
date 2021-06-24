@@ -1,5 +1,3 @@
-# Untitled
-
 # PwnExploitByC
 
 공업 일반 프로젝트를 계기로 c언어로 got, libc의 sym 등을 가져오는 함수들을 만들어보았습니다.
