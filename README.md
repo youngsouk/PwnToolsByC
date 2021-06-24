@@ -99,4 +99,4 @@ int main(){
 
 실행사진
 
-![readme/Untitled.png](Untitled%200ca70cf006734e57bac42a0d28de09f7/Untitled.png)
+![readme/Untitled.png](readme/Untitled.png)
